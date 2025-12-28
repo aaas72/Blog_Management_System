@@ -39,7 +39,7 @@ A production-ready Backend for a Blog system built with Python, FastAPI, SQLAlch
    ```
 
 4. **Environment Variables**:
-   
+
    Navigate to the `blog_system` directory, copy `.env.example` to `.env` and configure your database credentials.
 
    ```bash
